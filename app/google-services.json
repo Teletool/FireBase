@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "483058203410",
+    "firebase_url": "https://firebasiclogin.firebaseio.com",
+    "project_id": "firebasiclogin",
+    "storage_bucket": "firebasiclogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483058203410:android:63d9cca54e8aeda7",
+        "android_client_info": {
+          "package_name": "com.example.camil.firebasiclogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483058203410-f06pqmc6pglhhbera8ltejp6r2m68aj0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.camil.firebasiclogin",
+            "certificate_hash": "6467C1C81ADC041768ADF51D5B23689C38F79DDD"
+          }
+        },
+        {
+          "client_id": "483058203410-s5v6dseosqce47p452irnti295rknvba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_5QncP2oQ68nQjvfvXwQLkfcLmVJPOAs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483058203410-s5v6dseosqce47p452irnti295rknvba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

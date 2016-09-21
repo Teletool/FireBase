@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FireBasicLogin</string>
+    <string name="facebook_application_id" translatable="false">1081543135257077</string>
+</resources>
